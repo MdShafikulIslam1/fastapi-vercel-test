@@ -1,2 +1,24 @@
+langchain
+langchain-community
+langchain-core
+langchain_groq
+langchain-together
+langchain-openai
+langchain-huggingface
+langchain-chroma
+langchain-pinecone
+sentence-transformers==4.1.0
+pydantic
+pinecone
+openai
+pypdf
+tiktoken
+aiofiles
 fastapi
 uvicorn
+jinja2
+python-multipart
+PyPDF2
+faiss-cpu
+python-dotenv
+-e .
